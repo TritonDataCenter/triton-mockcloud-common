@@ -1,0 +1,13 @@
+{
+    "author": "Joyent (joyent.com)",
+    "dependencies": {
+        "assert-plus": "1.0.0",
+        "vasync": "2.2.0"
+    },
+    "description": "Common functions for mockcloud agents/components",
+    "license": "MPL-2.0",
+    "main": "./lib/index.js",
+    "name": "triton-mockcloud-common",
+    "private": true,
+    "version": "0.0.1"
+}
